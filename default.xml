@@ -84,10 +84,10 @@
 	<project name="moe-core" path="moe/moe-core" remote="berstanio" revision="combined"/>
 	<project name="moe-tests" path="moe/test" />
 	<project name="moe-plugin-common" path="moe/tools/moe.plugin.common" />
-	<project name="moe-plugin-gradle" path="moe/tools/moe.plugin.gradle" remote="berstanio" revision="use-r8"/>
+	<project name="moe-plugin-gradle" path="moe/tools/moe.plugin.gradle" remote="berstanio" revision="combined"/>
 	<project name="moe-plugin-maven" path="moe/tools/moe.plugin.maven" />
 	<project name="moe-ide-integration-eclipse" path="moe/tools/moe.plugin.eclipse" />
-	<project name="moe-sdk-publisher" path="moe/tools/moe.sdk.publisher" remote="berstanio" revision="use-r8"/>
+	<project name="moe-sdk-publisher" path="moe/tools/moe.sdk.publisher" remote="berstanio" revision="combined"/>
 	<project name="moe-tools-natjgen" path="moe/tools/moe.tools.natjgen" />
 	<project name="moe_tools_scripts" path="moe/tools/scripts" />
 	<project name="moe-tools-classvalidator" path="moe/tools/moe.tools.classvalidator" remote="berstanio" revision="use-r8"/>
