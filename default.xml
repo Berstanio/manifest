@@ -55,7 +55,7 @@
 	<!--
 		Multi-OS Engine components
 	/-->
-	<project name="moe-prebuilts" path="prebuilts" />
+	<project name="moe-prebuilts" path="prebuilts" remote="berstanio" revision="combined"/>
 
 	<!-- Nat/J /-->
 	<project name="moe-natj" path="moe/natj/natj" remote="berstanio" revision="combined"/>
