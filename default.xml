@@ -58,7 +58,7 @@
 	<project name="moe-prebuilts" path="prebuilts" />
 
 	<!-- Nat/J /-->
-	<project name="moe-natj" path="moe/natj/natj" remote="berstanio" revision="moe-master"/>
+	<project name="moe-natj" path="moe/natj/natj" remote="berstanio" revision="combined"/>
 	<project name="moe-natjgen" path="moe/tools/moe.generator.natjgen"  />
 	<project name="moe-cinder-natj-binding" path="moe/natj/bindigs/third_party/cinder"  />
 	<project name="moe-realsense-natj-binding" path="moe/natj/bindigs/third_party/realsense"  />
