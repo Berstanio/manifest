@@ -8,7 +8,7 @@
 	<!--
 		Andoid Open Source projects
 	/-->
-	<project name="art" path="aosp/art" />
+	<project name="art" path="aosp/art" remote="berstanio" revision="combined"/>
 	<project name="platform_bionic" path="aosp/bionic" />
 	<project name="platform_external_apache-http" path="aosp/external/apache-http" />
 	<project name="apache-harmony" path="aosp/external/apache-harmony"  />
